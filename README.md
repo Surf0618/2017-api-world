@@ -2,7 +2,7 @@
 this is a repo for 2017 Api World with TJBot hacks. If you like it - give me a star
 
 
-If you work with [IBM Kitura](http://kitura.io) please update the ```Package.swift`` with the following line relative to calling:
+If you work with [IBM Kitura](http://kitura.io) please update the ```Package.swift``` with the following line relative to calling:
 ```swift
 import PackageDescription
 
